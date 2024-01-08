@@ -1,9 +1,9 @@
 <template>
-  <div class="flex flex-col justify-center items-center mx-auto w-60 sm:w-80 h-full">
+  <div class="flex flex-col justify-center items-center mx-auto w-72 h-full">
     <div class="p-4 flex flex-col bg-white border border-lightgray shadow-sm rounded-xl">
       <img alt="QR Code" class="rounded-xl" src="../assets/image-qr-code.png" />
 
-      <div class="text-center p-4">
+      <div class="text-center p-2">
         <p class="text-darkblue text-xl font-bold">
           Improve your front-end skills by building projects
         </p>
