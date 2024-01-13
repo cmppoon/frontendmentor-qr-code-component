@@ -4,12 +4,12 @@
       <img alt="QR Code" class="rounded-xl" src="../assets/image-qr-code.png" />
 
       <div class="text-center p-2">
-        <p class="text-darkblue text-xl font-bold">
+        <h1 class="text-darkblue text-xl font-bold">
           Improve your front-end skills by building projects
-        </p>
-        <p class="text-grayishblue text-sm mt-2">
+        </h1>
+        <h2 class="text-grayishblue text-sm mt-2">
           Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
-        </p>
+        </h2>
       </div>
     </div>
 
